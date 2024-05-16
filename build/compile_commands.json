@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/build/src/server",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\chatserver.cpp.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\聊天服务器资料\\chatserver-master\\chatserver-master\\src\\server\\chatserver.cpp",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/src/server/chatserver.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/build/src/server",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\chatservice.cpp.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\聊天服务器资料\\chatserver-master\\chatserver-master\\src\\server\\chatservice.cpp",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/src/server/chatservice.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/build/src/server",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\main.cpp.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\聊天服务器资料\\chatserver-master\\chatserver-master\\src\\server\\main.cpp",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/src/server/main.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/build/src/server",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\db\\db.cpp.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\聊天服务器资料\\chatserver-master\\chatserver-master\\src\\server\\db\\db.cpp",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/src/server/db/db.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/build/src/server",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\model\\friendmoel.cpp.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\聊天服务器资料\\chatserver-master\\chatserver-master\\src\\server\\model\\friendmoel.cpp",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/src/server/model/friendmoel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/friendmoel.cpp.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/build/src/server",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\model\\groupmodel.cpp.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\聊天服务器资料\\chatserver-master\\chatserver-master\\src\\server\\model\\groupmodel.cpp",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/src/server/model/groupmodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/build/src/server",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\model\\offlinemessagemodel.cpp.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\聊天服务器资料\\chatserver-master\\chatserver-master\\src\\server\\model\\offlinemessagemodel.cpp",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/src/server/model/offlinemessagemodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/build/src/server",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\model\\usermodel.cpp.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\聊天服务器资料\\chatserver-master\\chatserver-master\\src\\server\\model\\usermodel.cpp",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/src/server/model/usermodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/build/src/server",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\redis\\redis.cpp.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\聊天服务器资料\\chatserver-master\\chatserver-master\\src\\server\\redis\\redis.cpp",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/src/server/redis/redis.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/build/src/client",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatClient.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatClient.dir\\main.cpp.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\聊天服务器资料\\chatserver-master\\chatserver-master\\src\\client\\main.cpp",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/聊天服务器资料/chatserver-master/chatserver-master/src/client/main.cpp",
+  "output": "src/client/CMakeFiles/ChatClient.dir/main.cpp.obj"
+}
+]
